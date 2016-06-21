@@ -5,20 +5,5 @@ p {
   font-size: 16pt;
 }
 nav {
-  background-color: #9446d8;
   border-radius: 8px;
-}
-.menu h3 {
-  display: inline-block;
-  padding: 5px 20px 5px 20px;
-}
-.menu a {
-  text-decoration: none;
-  color: black;
-  font-size: 24px;
-  font-weight: bold;
-}
-.menu a:hover {
-  color: white;
-  background-color: transparent;
 }
